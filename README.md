@@ -17,12 +17,19 @@ It contains three main folders:
 
 ## Citation
 
-> Marco A. Montes-Grova, Vasileios Mygdalis, Francisco J. Pérez-Grau, Antidio Viguria and Ioannis Pitas. ICUAS 2024. "Photoconsistent and Trajectory Guided Novel-View Synthesis Tool for UAV Cinematography Based on Autoregressive Transformer". **_UNDER REVISION_**
-
-If you use this data for any academic work, please cite our original paper: TBD
+If you use this code for any academic work, please cite our original [paper](https://ieeexplore.ieee.org/abstract/document/10734750):
 
 ```bibtex
-UNDER REVISION
+@INPROCEEDINGS{10734750,
+  author={Montes-Grova, Marco A. and Mygdalis, Vasileios and Pérez-Grau, Francisco J. and Viguria, Antidio and Pitas, Ioannis},
+  booktitle={2024 IEEE 34th International Workshop on Machine Learning for Signal Processing (MLSP)}, 
+  title={Photoconsistent and Trajectory Guided Novel-View Synthesis Tool for UAV Cinematography Based on Autoregressive Transformers}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Extrapolation;Interpolation;Conferences;Robot vision systems;Machine learning;Cinematography;Signal processing;Transformers;Trajectory;Robots;Applications of machine learning;Generative AI for Multimedia;UAS Applications},
+  doi={10.1109/MLSP58920.2024.10734750}}
 ```
 
 
